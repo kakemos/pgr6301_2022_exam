@@ -27,7 +27,7 @@ describe("previewAllArticles component", () => {
             );
         });
         expect(
-            Array.from(domElement.querySelectorAll("h3")).map((e) => e.innerHTML)
+            Array.from(domElement.querySelectorAll("h2")).map((e) => e.innerHTML)
         ).toEqual(["<a href=\"/article/article 1\">article 1</a>", "<a href=\"/article/article 2\">article 2</a>"]);
         expect(domElement.innerHTML).toMatchSnapshot();
     });

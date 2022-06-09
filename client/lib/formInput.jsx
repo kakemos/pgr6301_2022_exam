@@ -5,7 +5,7 @@ export function FormInput({ label, value, onChangeValue }) {
     <div className="form-input">
       <div>
         <label>
-          <strong>{label}</strong>{" "}
+          <strong>{label}</strong>
         </label>
       </div>
       <input

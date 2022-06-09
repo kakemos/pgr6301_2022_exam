@@ -21,7 +21,7 @@ describe("article component", () => {
             );
         });
         expect(
-            Array.from(element.querySelectorAll("h2")).map((e) => e.innerHTML)
+            Array.from(element.querySelectorAll("h1")).map((e) => e.innerHTML)
         ).toEqual(["article 1"]);
         expect(element.innerHTML).toMatchSnapshot();
     })
