@@ -1,3 +1,5 @@
 // Jest Snapshot v1, https://goo.gl/fbAQLP
 
-exports[`add movie component shows movies form 1`] = `"<h1>Write new article.</h1><form><p>Author: Testy Testsen</p><div class=\\"form-input\\"><div><label><strong>Title</strong> </label></div><input value=\\"\\"></div><div class=\\"form-input\\"><div><label><strong>Intro</strong> </label></div><input value=\\"\\"></div><div class=\\"form-input\\"><div><label for=\\"dog-names\\"><strong>Category</strong></label></div><select name=\\"categories\\" id=\\"category-dropdown\\"><option value=\\"general\\">General</option><option value=\\"fashion\\">Politics</option><option value=\\"art\\">Society</option><option value=\\"travel\\">Sports</option><option value=\\"celebrity\\">Celebrity</option></select></div><div class=\\"form-input\\"><div><label><strong>Article</strong> </label></div><input value=\\"\\"></div><div><button>Submit article</button></div></form>"`;
+exports[`add article component shows new article form 1`] = `"<div>Loading...</div>"`;
+
+exports[`add movie component shows movies form 1`] = `"<div>Loading...</div>"`;
