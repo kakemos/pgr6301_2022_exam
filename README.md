@@ -35,5 +35,5 @@
 * [x] OpenID Connect
 * [x] Web Sockets
 * [x] Jest med dokumentert testdekning
-  * Testing fra client gitt etterhvert greit nok, men server-tester fikk jeg virkelig ikke til. Fikk en feilmelding som hinta til noe med WebSockets i server.js, også om testene var tomme (med kun hjelpetest-funksjoner igjen), så jeg ga etterhvert opp her. Har kommentert ut hele testsiden utenom en tom test.
+  * Testing fra client gitt etterhvert greit nok, mens server-tester fikk jeg ikke til å fungere innenfor tiden. 
  
