@@ -4,7 +4,7 @@
 [Test rapport](https://github.com/kristiania-pg6301-2022/pgr6301-exam-kakemos/commit/28122c90818259406fb7e48944911f1008d1a3fc)
 
 
-## Egenutfylling av funksjonelle krav
+## Funksjonelle krav
 
 * [x] Anonyme brukere skal se nyhetsaker når de kommer til nettsiden. Legg inn noen nyhetssaker for å demonstrere
 * [x] Når en ny sak publiseres, skal alle brukerne få se den nye saken umiddelbart. Bruk websockets for å sende oppdateringer
@@ -24,7 +24,7 @@
 
 
 
-## Egenutfylling av tekniske krav
+## Tekniske krav
 
 * [x] Oppsett av package.json, parcel, express, prettier
 * [x] React Router
