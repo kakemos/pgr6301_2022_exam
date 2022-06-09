@@ -1,5 +1,0 @@
-// Jest Snapshot v1, https://goo.gl/fbAQLP
-
-exports[`add article component shows new article form 1`] = `"<div>Loading...</div>"`;
-
-exports[`add movie component shows movies form 1`] = `"<div>Loading...</div>"`;
