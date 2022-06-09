@@ -1,0 +1,3 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`delete article component shows author's own articles 1`] = `"<h2>Overview of all your articles.</h2><h3>Which one do you wanna delete?</h3><form><input type=\\"radio\\" name=\\"delete-articles\\" value=\\"article 1\\"><label for=\\"article 1\\">article 1</label><p></p><input type=\\"radio\\" name=\\"delete-articles\\" value=\\"article 2\\"><label for=\\"article 2\\">article 2</label><p></p><button>Delete</button></form>"`;

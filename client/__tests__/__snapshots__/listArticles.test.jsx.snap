@@ -1,0 +1,7 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`previewAllArticles component shows articles 1`] = `"<div><form><input type=\\"radio\\" name=\\"filter-news\\" value=\\"all\\"><label for=\\"all\\">All</label><input type=\\"radio\\" name=\\"filter-news\\" value=\\"general\\"><label for=\\"general\\">General</label><input type=\\"radio\\" name=\\"filter-news\\" value=\\"fashion\\"><label for=\\"fashion\\">Fashion</label><input type=\\"radio\\" name=\\"filter-news\\" value=\\"art\\"><label for=\\"art\\">Art</label><input type=\\"radio\\" name=\\"filter-news\\" value=\\"travel\\"><label for=\\"travel\\">Travel</label><input type=\\"radio\\" name=\\"filter-news\\" id=\\"category-query\\" value=\\"celebrity\\"><label for=\\"celebrity\\">Celebrity</label><button>Filter</button></form></div><div><h3><a href=\\"/article/article 1\\">article 1</a></h3><h5>Written by </h5><p></p></div><div><h3><a href=\\"/article/article 2\\">article 2</a></h3><h5>Written by </h5><p></p></div>"`;
+
+exports[`previewAllArticles component shows error message 1`] = `"<div><h1>Error</h1><div id=\\"error-text\\">Error: Something went wrong</div></div>"`;
+
+exports[`previewAllArticles component shows loading screen 1`] = `"<div>Loading...</div>"`;

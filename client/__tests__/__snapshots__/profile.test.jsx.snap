@@ -1,0 +1,5 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`profile component shows google user profile 1`] = `"<h1>Profile for Testy Testsen</h1><h3>testy@test.com</h3><div><img></div>"`;
+
+exports[`profile component shows microsoft user profile 1`] = `"<h1>Profile for Testy Testsen</h1><h3>testy@test.com</h3><div><img></div>"`;

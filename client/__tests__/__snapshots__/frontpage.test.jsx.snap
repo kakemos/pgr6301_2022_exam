@@ -1,0 +1,3 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`front page component shows headline 1`] = `"<div><h1 id=\\"frontpage-title\\">Everyday News!</h1></div><div><div>Loading...</div></div>"`;

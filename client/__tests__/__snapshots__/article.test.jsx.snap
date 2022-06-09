@@ -1,0 +1,3 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`article component shows article 1`] = `"<div><h2>article 1</h2><h4>Written by </h4><p>category: </p><p></p><p></p></div>"`;
